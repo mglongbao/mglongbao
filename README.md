@@ -20,22 +20,6 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mglongbao/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/baomnl123/baomnl123/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!--
 **baomnl123/baomnl123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
