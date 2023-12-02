@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently in my 3rd year of software engineering, passionate about creating efficient and scalable backend systems. Eager to learn, collaborate and contribute to meaningful projects.
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,c,git,html,css,js)](https://skillicons.dev)
+
 <!--
 **baomnl123/baomnl123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
