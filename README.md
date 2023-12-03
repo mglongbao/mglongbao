@@ -20,6 +20,9 @@ I'm currently a third-year of Software Engineering. I've worked in .NET, Java, M
 	<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
 	</a>
+	<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
+	</a>
 	<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank" rel="noreferrer">
 		<img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" width="36" height="36" alt="MSSQL"/>
 	</a>
@@ -40,9 +43,6 @@ I'm currently a third-year of Software Engineering. I've worked in .NET, Java, M
 	</a>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-	</a>
-	<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
 	</a>
 </p>
 
