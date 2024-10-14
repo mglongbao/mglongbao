@@ -7,7 +7,7 @@ Backend Developer
 I'm currently a third-year of Software Engineering. I've worked in .NET, Java, Microsoft SQL Server, and React
 
 * 🌍  I'm based in Ho Chi Minh
-* ✉️  You can contact me at [mglongbao@gmail.com](mailto:mglongbao@gmail.com)
+* ✉️  You can contact me at [baomnl123@gmail.com](mailto:baomnl123@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
@@ -50,7 +50,7 @@ I'm currently a third-year of Software Engineering. I've worked in .NET, Java, M
 ### Socials
 
 <p align="left"> 
-	<a href="https://www.facebook.com/mglongbao" target="_blank" rel="noreferrer"> 
+	<a href="https://www.facebook.com/baomnl123" target="_blank" rel="noreferrer"> 
 		<picture> 
 			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> 
 			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> 
@@ -64,7 +64,7 @@ I'm currently a third-year of Software Engineering. I've worked in .NET, Java, M
 			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
 		</picture> 
 	</a> 
-	<a href="https://www.linkedin.com/in/mglongbao" target="_blank" rel="noreferrer"> 
+	<a href="https://www.linkedin.com/in/baomnl123" target="_blank" rel="noreferrer"> 
 		<picture> 
 			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
 			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
