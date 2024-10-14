@@ -7,7 +7,7 @@ Backend Developer
 I'm currently a third-year of Software Engineering. I've worked in .NET, Java, Microsoft SQL Server, and React
 
 * 🌍  I'm based in Ho Chi Minh
-* ✉️  You can contact me at [baomnl123@gmail.com](mailto:baomnl123@gmail.com)
+* ✉️  You can contact me at [mglongbao@gmail.com](mailto:mglongbao@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
